@@ -1,0 +1,24 @@
+{
+  "imgupload": {
+    "host": "ds259528.mlab.com",
+    "port": 59528,
+    "url": "mongodb://udemy:udemy2020@ds259528.mlab.com:59528/heroku_gl9g6tb1",
+    "database": "heroku_gl9g6tb1",
+    "password": "udemy2020",
+    "user": "udemy",
+    "name": "imgupload",
+    "provider": "filesystem",
+    "connector": "loopback-component-storage-gridfs"
+  },
+  "db": {
+    "host": "ds259528.mlab.com",
+    "port": 59528,
+    "url": "mongodb://udemy:udemy2020@ds259528.mlab.com:59528/heroku_gl9g6tb1",
+    "database": "heroku_gl9g6tb1",
+    "password": "udemy2020",
+    "name": "db",
+    "user": "udemy",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
